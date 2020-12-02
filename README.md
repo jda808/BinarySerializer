@@ -1,6 +1,5 @@
 [![.NET Core](https://github.com/jda808/BinarySerializer/workflows/.NET%20Core/badge.svg)](https://github.com/jda808/BinarySerializer/actions)
-[![NuGet](https://img.shields.io/nuget/v/binaryserializer)](https://nuget.org/packages/BinarySerializer/)
-[![NuGet](https://img.shields.io/nuget/dt/binaryserializer)](http://nuget.org/packages/BinarySerializer/)
+### Warning this fork may be out of whack ###
 
 BinarySerializer
 ================
