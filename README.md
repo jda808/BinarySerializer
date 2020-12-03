@@ -1,5 +1,5 @@
 [![.NET Core](https://github.com/jda808/BinarySerializer/workflows/.NET%20Core/badge.svg)](https://github.com/jda808/BinarySerializer/actions)
-### Warning this fork may be out of whack ###
+### Warning: This is an Experimental fork, utilizing dotnet core 5. YMWV ###
 
 BinarySerializer
 ================
